@@ -21,7 +21,7 @@ if (per >= 90)
 
  if (per >= 85)
 
- grade = 'B';
+ grade= 'B';
 
  else 
 
