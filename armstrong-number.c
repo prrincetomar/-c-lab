@@ -22,10 +22,10 @@ void main ()
     n=n/10;
    }
      if(t==s)
-      printf("as");
+      printf(" Armstrong number ");
      else 
      
-      printf("nas");
+      printf(" Not a armstrong number ");
    }
 
 
