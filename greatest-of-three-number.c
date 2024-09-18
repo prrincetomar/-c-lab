@@ -21,25 +21,5 @@ void main()
        max=b;
        else 
        max=c;
-      printf("\nmax=%d",max);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+      printf("\nmax=%d",max);    
 }
