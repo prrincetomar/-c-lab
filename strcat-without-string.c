@@ -11,20 +11,16 @@ void main ()
     printf("string s2:");
     gets(s2);
 
-    for( i = 0; s1[i] !='\0'; i++)
-    {}
+    for( i = 0; s1[i] !='\0'; i++){
+    }
 
-    while (s2[j] != '\0')
-    {   s1[i]= s2[j];
+    while (s2[j] != '\0'){
+       s1[i]= s2[j];
         i++;
         j++;
     }
 
-s1[i]='\0';
-puts(s1);
-
-
-
-
+    s1[i]='\0';
+    puts(s1);
 
 }
