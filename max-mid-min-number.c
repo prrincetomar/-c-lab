@@ -7,7 +7,7 @@ void main()
 {
     int a,b,c,max,mid,min;
 
-
+    
 
     printf("write the of a b c ");
     scanf("%d%d%d", &a, &b ,&c);
