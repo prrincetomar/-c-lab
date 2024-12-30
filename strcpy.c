@@ -8,12 +8,4 @@ void main ()
    gets(s1);
    strcpy(s2,s1);
    puts(s2);
-
-
-
-
-
-
-
-
 }
