@@ -3,7 +3,8 @@
 void main ()
 
 {
-  int t,n,s=0,c=0,r;
+  int t,n;;
+  int s=0,c=0,r;
 
   printf("n");
   scanf("%d",&n);
@@ -27,6 +28,7 @@ void main ()
      
       printf(" Not a armstrong number ");
    }
+
 
 
 
